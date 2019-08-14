@@ -3,7 +3,7 @@
     "type": "magento-module",
     "license": "The-BSD-3-Clause-License",
     "homepage": "",
-    "description": "elefunds ermöglicht Ihren Kunden freiwählbare Beträge aufzurunden und an eine oder mehrere renommierte Charities zu spenden.",
+    "description": "elefunds ermöglicht Kunden den zu zahlenden Betrag aufzurunden und an gemeinnützige Organisationen zu spenden.",
     "authors": [
     {
         "name": "elefunds GmbH",
