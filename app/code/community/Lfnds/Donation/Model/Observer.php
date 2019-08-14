@@ -347,5 +347,5 @@ class Lfnds_Donation_Model_Observer
             $quoteItem->setDiscountCalculationPrice(0);
         }
     }
-
+    
 }
