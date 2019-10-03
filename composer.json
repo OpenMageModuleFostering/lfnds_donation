@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/lfnds_donation",
+    "name": "OpenMageModuleFostering\/lfnds_donation",
     "type": "magento-module",
     "license": "BSD3-License",
     "homepage": "",
-    "description": "elefunds ermöglicht Kunden den zu zahlenden Betrag aufzurunden und an gemeinnützige Organisationen zu spenden.",
+    "description": "elefunds erm\u00f6glicht Kunden den zu zahlenden Betrag aufzurunden und an gemeinn\u00fctzige Organisationen zu spenden.",
     "authors": [
-    {
-        "name": "elefunds GmbH",
-        "email": "contact@elefunds.de"
-    }
-],
+        {
+            "name": "elefunds GmbH",
+            "email": "contact@elefunds.de"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
