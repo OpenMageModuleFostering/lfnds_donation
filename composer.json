@@ -1,5 +1,5 @@
 {
-    "name": "OpenMageModuleFostering\/lfnds_donation",
+    "name": "openmage-module-fostering\/lfnds_donation",
     "type": "magento-module",
     "license": "BSD3-License",
     "homepage": "",
